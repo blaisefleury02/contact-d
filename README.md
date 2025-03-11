@@ -1,2 +1,2 @@
 # contact-d
-demo contact for 
+demo contact for class
